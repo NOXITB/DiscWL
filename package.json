@@ -1,5 +1,5 @@
 {
-    "name": "discWelcome",
+    "name": "discWL",
     "version": "4.0.3",
     "description": "Discord Welcome/Goodbye Cards",
     "main": "src/index.js",
@@ -30,7 +30,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/AKORA-Studios/DiscordWelcomeCard.git"
+        "url": "https://github.com/NOXITB/DiscWL"
     },
     "devDependencies": {
         "@types/node": "^16.7.6",
