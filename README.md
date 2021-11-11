@@ -1,10 +1,10 @@
 #  Discord Welcome Card
-[![NPM Version](https://img.shields.io/npm/v/discord-welcome-card?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discord-welcome-card)
-[![NPM Downloads](https://img.shields.io/npm/dt/discord-welcome-card?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discord-welcome-card)
-[![NPM License](https://img.shields.io/npm/l/discord-welcome-card?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discord-welcome-card)
-[![Github Size](https://img.shields.io/github/repo-size/AKORA-Studios/DiscordWelcomeCard?color=00DEC8&label=SIZE&style=for-the-badge)](https://www.npmjs.com/package/discord-welcome-card)
+[![NPM Version](https://img.shields.io/npm/v/discWL?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discWL)
+[![NPM Downloads](https://img.shields.io/npm/dt/discWL?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discWL)
+[![NPM License](https://img.shields.io/npm/l/discWL?color=00DEC8&style=for-the-badge)](https://www.npmjs.com/package/discWL)
 
-Simple easy-to-use Goodbye and welcome cards for your discord Bot. The version changelog could be found at [changelog.md](CHANGELOG.md). If you have any problems or questiosn considering this package, feel free to open a issue or join our [discord server](https://discord.gg/Emk2udJ).
+
+
 
 
 ## Features

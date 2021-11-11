@@ -1,4 +1,4 @@
-#  Discord Welcome Card v12
+#  DiscWelcome
 
 ## Examples
 <details open> 
@@ -134,8 +134,4 @@ client.on("message", async message => {
 
 client.login('Your-Bot-Token');
 ```
-    
-</details>
 
-## Support Server
-**[![widget](https://discord.com/api/guilds/553942677117337600/widget.png?style=banner2)](https://discord.gg/Emk2udJ)**
