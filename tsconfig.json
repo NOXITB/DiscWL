@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "lib": [
+            "esnext",
+            "DOM"
+        ],
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "declarationMap": true,
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "declaration": true
+    }
+}
