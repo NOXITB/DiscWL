@@ -186,9 +186,3 @@ client.login('Your-Bot-Token');
 </details>  
 
 
-## Example projects
-Some projects written with this package
-* [Miyuki](https://github.com/discord-card/Miyuki) (discord.js V13)
-
-## Support Server
-**[![widget](https://discord.com/api/guilds/553942677117337600/widget.png?style=banner2)](https://discord.gg/Emk2udJ)**
