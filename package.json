@@ -1,17 +1,11 @@
 {
-    "name": "discWL",
-    "version": "4.0.3",
+    "name": "discordwl",
+    "version": "4.1.0",
     "description": "Discord Welcome/Goodbye Cards",
     "main": "src/index.js",
     "types": "src/index.d.ts",
     "scripts": {
-        "build": "tsc",
-        "build:clean": "shx rm -rf ./src/**/*.js* ./src/**/*d.ts*",
-        "build:watch": "npm run build -- -w",
-        "prepack": "npm run build:clean && tsc",
-        "link": "npm link && cd ./testing && npm link discord-welcome-card",
-        "test": "node ./testing/",
-        "test:watch": "nodemon -w .\\ .\\testing\\index.js"
+
     },
     "keywords": [
         "discord",
@@ -23,20 +17,14 @@
         "goodbye",
         "greeting"
     ],
-    "author": "Noxitb",
+    "author": "yourMom",
     "license": "MIT",
     "dependencies": {
-        "@discord-card/core": "^1.1.5"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/NOXITB/DiscWL"
     },
     "devDependencies": {
-        "@types/node": "^16.7.6",
-        "discord.js": "^13.1.0",
-        "nodemon": "^2.0.12",
-        "shx": "^0.3.3",
-        "typescript": "^4.4.2"
     }
 }
