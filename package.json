@@ -1,0 +1,30 @@
+{
+    "name": "discordwl",
+    "version": "4.1.0",
+    "description": "Discord Welcome/Goodbye Cards",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "scripts": {
+
+    },
+    "keywords": [
+        "discord",
+        "discord.js",
+        "canvas",
+        "node-canvas",
+        "welcome",
+        "welcomecard",
+        "goodbye",
+        "greeting"
+    ],
+    "author": "yourMom",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NOXITB/DiscWL"
+    },
+    "devDependencies": {
+    }
+}
